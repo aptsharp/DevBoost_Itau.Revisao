@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisao", "Revisao.csproj", "{536050EA-FCBB-4F8E-821D-3C0EDE7D2FE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ORM", "ORM", "{996C6482-4E4F-4CF9-B49D-BF8157578313}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{0EF5A594-6C58-480E-87F6-495D02799F04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Injeção de Dependencias", "Injeção de Dependencias", "{FA80B647-42B4-45AB-A815-2E5B40006066}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kafka", "kafka", "{DBBBD58D-8307-4215-87A1-11B184D2636B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{A0D8ED0C-28D8-458A-8018-4AC3049064C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS", "CQRS", "{0EBCDF62-15C1-46CD-9DE1-A3C43357755D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWT Token", "JWT Token", "{E857A678-7D35-46F6-B73B-400469D94C34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication e authorization", "Authentication e authorization", "{82721012-D8E8-4A41-8849-F675253F2CC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD e BDD", "TDD e BDD", "{4C0C5BB1-4F71-4950-A79B-20BEAB4B6745}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clean Code", "Clean Code", "{BC9901A2-17EB-444B-8BDC-51427F3ED462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{88EFEEF0-CC6C-4355-806D-CC35D0DE9D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphQL", "GraphQL", "{1CFBB9F7-85EA-4D24-9513-E07E2AC0734C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536050EA-FCBB-4F8E-821D-3C0EDE7D2FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536050EA-FCBB-4F8E-821D-3C0EDE7D2FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536050EA-FCBB-4F8E-821D-3C0EDE7D2FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536050EA-FCBB-4F8E-821D-3C0EDE7D2FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48BE97B-6A3E-4508-B752-FA7425E06119}
+	EndGlobalSection
+EndGlobal
