@@ -31,11 +31,9 @@ Projeto do curso DevBoost - Itaú
 - SQL Server
 - Redis
 - Postgre
-- 
 
 ## Desenvolvedores
 
-- Afonso Raffael Moraes Simão - https://github.com/aptsharp
-- Jefferson Bompadre - https://github.com/jeffersonbompadre
-- Eric - https://github.com/frodoeric
 - Allan G. de Freitas - https://github.com/allansud
+- Eric - https://github.com/frodoeric
+- Jefferson Bompadre - https://github.com/jeffersonbompadre
